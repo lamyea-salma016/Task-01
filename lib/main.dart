@@ -33,7 +33,7 @@ class MyWidget extends StatelessWidget {
                 Icon(
                   Icons.star,
                   size: 60,
-                  color: const Color.fromARGB(255, 180, 22, 22),
+                  color: const Color.fromARGB(255, 22, 30, 180),
                 ),
                 Icon(
                   Icons.star,
